@@ -34,12 +34,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I created a new folder named "PHP" on the C: drive in Windows. Next, I started the installation of the PHP software. I located the software file, right-clicked on it, and selected "Extract All." When prompted to choose a destination, I typed in "C:/PHP," and all the files were extracted to that folder. I accepted all prompts and continued through the installation process until it was finished..
 </p>
 <br />
 
+![image](https://github.com/user-attachments/assets/5c4d4418-4396-4b57-a796-fc005d68daa9)
 
 <p>
-I created a new folder named "PHP" on the C: drive of Windows. The next step is to install the PHP software. I navigated to the folder where the software is located, right-clicked on the file, and selected "Extract All." I agreed to all prompts and continued through the installation process until it was complete.
+
 </p>
 <br />
