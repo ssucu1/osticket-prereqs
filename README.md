@@ -19,7 +19,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Item 1: Enable internet infomation services (IIS)
 - Item 2: Install web platform installer
 - Item 3: Install MySQL
-- Item 4: Install C++ redistributable
+- Item 4: Install PHP manager
 - Item 5: Configure permissions and install osTicket
 
 <h2>Installation Steps</h2>
@@ -30,17 +30,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
-![SQL](https://github.com/user-attachments/assets/a8d27302-1d0c-490d-85f5-1a0bece5c3ca)
+![image](https://github.com/user-attachments/assets/3409a335-8d6e-4d38-a2f5-e3c6ed8992ee)
+
 
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I created a new folder named "PHP" on the C: drive of Windows. The next step is to install the PHP software. I navigated to the folder where the software is located, right-clicked on the file, and selected "Extract All." I agreed to all prompts and continued through the installation process until it was complete.
 </p>
 <br />
