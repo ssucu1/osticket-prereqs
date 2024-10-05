@@ -38,7 +38,7 @@ I created a new folder named "PHP" on the C: drive in Windows. Next, I started t
 </p>
 <br />
 
-![osTicket cong](https://github.com/user-attachments/assets/e3fa9aa1-11b1-49c5-b032-248ede266b43)
+![image](https://github.com/user-attachments/assets/b3cd7f09-81b9-4b41-9db5-4924130d5904)
 
 <p>
 
