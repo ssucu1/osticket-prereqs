@@ -30,6 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 First, enable IIS in Windows and check the box for CGI under World Wide Web Services > Application Development Features.
 </p>
 <br />
+![MySQL](https://github.com/user-attachments/assets/4b17d6d4-e555-49b5-bea1-964746281f7a)
 
 
 <p>
@@ -42,6 +43,8 @@ I created a new folder named "PHP" on the C: drive in Windows. Next, I started t
 ![image](https://github.com/user-attachments/assets/b3cd7f09-81b9-4b41-9db5-4924130d5904)
 
 <p>
+To install osTicket v1.15.8, unzip "osTicket-v1.15.8.zip" from the "osTicket-Installation-Files" folder, and copy the "upload" folder to "C:\inetpub\wwwroot." Then, rename the "upload" folder to "osTicket."
 
+Finally, reload IIS by opening it, stopping the server, and then starting it again.
 </p>
 <br />
