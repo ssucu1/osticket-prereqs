@@ -37,7 +37,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 I created a new folder named "PHP" on the C: drive in Windows. Next, I started the installation of the PHP software. I located the software file, right-clicked on it, and selected "Extract All." When prompted to choose a destination, I typed in "C:/PHP," and all the files were extracted to that folder. I accepted all prompts and continued through the installation process until it was finished..
 </p>
 <br />
-![image](https://github.com/user-attachments/assets/86e2ea8d-7335-4f18-b373-db833dd5a0c6)
+
+![osTicket cong](https://github.com/user-attachments/assets/e3fa9aa1-11b1-49c5-b032-248ede266b43)
 
 <p>
 
