@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
-![image](https://github.com/user-attachments/assets/55e25d04-723e-4e40-965b-5ca4c3e14ec9)
+https://imgur.com/a/cAg3oWk 
 
 
 <p>
