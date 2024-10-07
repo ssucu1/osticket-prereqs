@@ -36,7 +36,11 @@ First, enable IIS in Windows and check the box for CGI under World Wide Web Serv
 
 <p>
   The first step is to click on the MySQL file to download it. After that, I followed the prompts by selecting "Typical" and then clicking "Next" until the installation was complete.
-  <p>
+  </p>
+  <br/>
+  
+  ![image](https://github.com/user-attachments/assets/1d551828-9614-44ec-8e9c-2dd1534ccde9)
+<p>  
 I created a new folder named "PHP" on the C: drive in Windows. Next, I started the installation of the PHP software. I located the software file, right-clicked on it, and selected "Extract All." When prompted to choose a destination, I typed in "C:/PHP," and all the files were extracted to that folder. I accepted all prompts and continued through the installation process until it was finished..
 </p>
 <br />
