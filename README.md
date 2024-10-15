@@ -36,13 +36,17 @@ Step (2) Enable IIS in Windows and check the box for CGI under World Wide Web Se
 
 ![image](https://github.com/user-attachments/assets/54f8b2fc-c3d6-48b4-87f9-d4d257bdbbfe)
 
-<p>(Another osTicket requirement step) Click on the MySQL file to download it. After that, I followed the prompts by selecting "Typical" and then clicking "Next" until the installation was complete.
+<p>(Another osTicket requirement step) Click on the MySQL file to download it. After that, I followed the prompts by selecting "Typical". 
 </p>
 <br/>
 
-
-
 ![image](https://github.com/user-attachments/assets/f22d4448-b57a-4a8f-b779-bb3f9a7b3852)
+
+<p>
+ and then clicking "Next" until the installation was complete.
+</p>
+<br/>
+
 ![MySQL](https://github.com/user-attachments/assets/4b17d6d4-e555-49b5-bea1-964746281f7a)
   
   ![image](https://github.com/user-attachments/assets/1d551828-9614-44ec-8e9c-2dd1534ccde9)
