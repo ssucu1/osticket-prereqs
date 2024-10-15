@@ -54,6 +54,10 @@ I created a new folder named "PHP" on the C: drive in Windows. Next, I started t
 </p>
 <br />
 
+![image](https://github.com/user-attachments/assets/f281b579-fb4f-49ee-8fe9-edb9430f1e49)
+
+
+
 ![image](https://github.com/user-attachments/assets/b3cd7f09-81b9-4b41-9db5-4924130d5904)
 
 <p>
