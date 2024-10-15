@@ -63,10 +63,10 @@ To install osTicket v1.15.8, unzip "osTicket-v1.15.8.zip" from the "osTicket-Ins
 
 ![image](https://github.com/user-attachments/assets/1ae80ddc-b9eb-4ea5-a6d7-8b2d4f9bdf40)
 
-![image](https://github.com/user-attachments/assets/b3cd7f09-81b9-4b41-9db5-4924130d5904)
-
 <p>Step (3) Install osTicket itself</p>
 <br/>
+
+![image](https://github.com/user-attachments/assets/b3cd7f09-81b9-4b41-9db5-4924130d5904)
 
 ![image](https://github.com/user-attachments/assets/b00e18dc-f7cc-47ca-acd3-74fdd9c7b586)
 
