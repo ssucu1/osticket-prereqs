@@ -23,14 +23,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 <p>
-  Creating Virtual Machine in Azure
+ Step (1) Creating Virtual Machine in Azure
 </p>
 <br/>
 
 ![VM](https://github.com/user-attachments/assets/0ee67b0b-b96a-475c-879c-ef7567491309)
 
 <p>
- Enable IIS in Windows and check the box for CGI under World Wide Web Services > Application Development Features.
+Step (2) Enable IIS in Windows and check the box for CGI under World Wide Web Services > Application Development Features.
 </p>
 <br />
 
