@@ -22,13 +22,21 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Item 4: Configure permissions and install osTicket
 
 <h2>Installation Steps</h2>
+<p>
+  Creating Virtual Machine in Azure
+</p>
+<br/>
+
+![VM](https://github.com/user-attachments/assets/0ee67b0b-b96a-475c-879c-ef7567491309)
+
+<p>
+ Enable IIS in Windows and check the box for CGI under World Wide Web Services > Application Development Features.
+</p>
+<br />
 
 ![image](https://github.com/user-attachments/assets/54f8b2fc-c3d6-48b4-87f9-d4d257bdbbfe)
 
-<p>
-First, enable IIS in Windows and check the box for CGI under World Wide Web Services > Application Development Features.
-</p>
-<br />
+
 
 ![image](https://github.com/user-attachments/assets/f22d4448-b57a-4a8f-b779-bb3f9a7b3852)
 ![MySQL](https://github.com/user-attachments/assets/4b17d6d4-e555-49b5-bea1-964746281f7a)
