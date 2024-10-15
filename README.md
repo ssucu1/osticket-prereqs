@@ -47,9 +47,8 @@ Step (2) Enable IIS in Windows and check the box for CGI under World Wide Web Se
 </p>
 <br/>
 
-![MySQL](https://github.com/user-attachments/assets/4b17d6d4-e555-49b5-bea1-964746281f7a)
-  
-  ![image](https://github.com/user-attachments/assets/1d551828-9614-44ec-8e9c-2dd1534ccde9)
+![SQL](https://github.com/user-attachments/assets/4585eabe-c5b3-419a-8a51-69c392355529)
+
 <p>  
 I created a new folder named "PHP" on the C: drive in Windows. Next, I started the installation of the PHP software. I located the software file, right-clicked on it, and selected "Extract All." When prompted to choose a destination, I typed in "C:/PHP," and all the files were extracted to that folder. I accepted all prompts and continued through the installation process until it was finished..
 </p>
