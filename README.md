@@ -50,14 +50,14 @@ Step (2) Enable IIS in Windows and check the box for CGI under World Wide Web Se
 ![SQL](https://github.com/user-attachments/assets/4585eabe-c5b3-419a-8a51-69c392355529)
 
 <p>  
-I created a new folder named "PHP" on the C: drive in Windows. Next, I started the installation of the PHP software. I located the software file, right-clicked on it, and selected "Extract All." When prompted to choose a destination, I typed in "C:/PHP," and all the files were extracted to that folder. I accepted all prompts and continued through the installation process until it was finished..
+(osTicket requirement step) Created a new folder named "PHP" on the C: drive in Windows. Next, I started the installation of the PHP software. I located the software file, right-clicked on it, and selected "Extract All." When prompted to choose a destination, I typed in "C:/PHP," and all the files were extracted to that folder. I accepted all prompts and continued through the installation process until it was finished..
 </p>
 <br />
 
 ![image](https://github.com/user-attachments/assets/f281b579-fb4f-49ee-8fe9-edb9430f1e49)
 
 <p>
-To install osTicket v1.15.8, unzip "osTicket-v1.15.8.zip" from the "osTicket-Installation-Files" folder, and copy the "upload" folder to "C:\inetpub\wwwroot." Then, rename the "upload" folder to "osTicket." Finally, reload IIS by opening it, stopping the server, and then starting it again.
+(osTicket requirement step) To install osTicket v1.15.8, unzip "osTicket-v1.15.8.zip" from the "osTicket-Installation-Files" folder, and copy the "upload" folder to "C:\inetpub\wwwroot." Then, rename the "upload" folder to "osTicket." Finally, reload IIS by opening it, stopping the server, and then starting it again.
 </p>
 <br/>
 
