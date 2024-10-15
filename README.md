@@ -16,10 +16,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1: Enable internet infomation services (IIS)
-- Item 2: Install web platform installer
-- Item 3: Install MySQL
-- Item 4: Install PHP manager
+- Item 1: Setup a Virtual Machine in Azure
+- Item 2: Install the osTicket requirements 
+- Item 3: Install osTicket itself
+- Item 4: 
 - Item 5: Configure permissions and install osTicket
 
 <h2>Installation Steps</h2>
