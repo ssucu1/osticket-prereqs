@@ -70,11 +70,5 @@ Step (2) Enable IIS in Windows and check the box for CGI under World Wide Web Se
 
 
 
-<p> Step (4) Configuring permissions and install ticket</p>
-<br/>
-
-![image](https://github.com/user-attachments/assets/b00e18dc-f7cc-47ca-acd3-74fdd9c7b586)
-
-![image](https://github.com/user-attachments/assets/408587fb-d8e5-4fb3-902d-5775f673cf5e)
 
 
